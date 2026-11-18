@@ -1,1 +1,3 @@
 # pr-demo
+
+add-goal
